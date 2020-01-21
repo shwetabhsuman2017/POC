@@ -1,0 +1,5 @@
+1) To change the password of the root user-
+    > sudo passwd root
+             This will ask to change the password.Change password and all done.
+
+
